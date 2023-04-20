@@ -43,3 +43,6 @@ class Lista():
 
     def getCabecera(self):
         return self.__cabecera
+
+     def mensaje(self,palabra)
+        print(palabra)   
