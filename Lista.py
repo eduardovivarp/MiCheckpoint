@@ -44,5 +44,6 @@ class Lista():
     def getCabecera(self):
         return self.__cabecera
 
-     def mensaje(self,palabra)
+     def mensaje(self,palabra):
         print(palabra)   
+        print(palabra)
